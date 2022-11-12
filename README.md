@@ -1,8 +1,10 @@
-Hi 👋 My name is Mehdi!
+Hi 👋 My name is Mehdi Chemaa
 =============================
 
 Full Stack Web Developer
 ------------------------
+
+I'm a motivated software engineering undergraduate from the University of Economics and Human Sciences in Warsaw with 3 years of experience in freelance web development. I'm seeking to use my skills in JavaScript and project management to meet business needs.
 
 * 🌍  I'm based in Warsaw, Poland
 * 🖥️  See my portfolio at [mehdichemaa.com](http://mehdichemaa.com)
